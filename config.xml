@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "ru.2bparts.app"
+    id          = "ru.2bparts.parts"
     versionCode = "10"
-    version     = "1.1.0">
+    version     = "1.2.0">
 
 <name>2bparts</name>
 
@@ -34,7 +34,7 @@
 <preference name='WindowsToastCapable' value='true' />
 
 <preference name="SplashMaintainAspectRatio" value="true" />
-<preference name="SplashScreenSpinnerColor" value="#FF0000" />
+<preference name="SplashScreenSpinnerColor" value="#FF0404" />
 
 
 <platform name="android">
