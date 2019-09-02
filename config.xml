@@ -3,9 +3,9 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ru.2bparts.app"
     versionCode = "10"
-    version     = "1.0.0">
+    version     = "1.1.0">
 
-<name>2bparts.ru</name>
+<name>2bparts</name>
 
 <description>
     Интернет-магазин 2bparts позволяет заказать и оплатить online запчасти, шины, диски, аккумуляторы, автолампы, масла и любые технические жидкости не выходя из дома. У нас вы гарантировано приобретёте качественные автозапчасти и аксессуары для вашего автомобиля. Так же у нас вы получите грамотную консультацию и достоверную информацию о любом товаре или производителе.
@@ -34,7 +34,7 @@
 <preference name='WindowsToastCapable' value='true' />
 
 <preference name="SplashMaintainAspectRatio" value="true" />
-<preference name="SplashScreenSpinnerColor" value="#FF000C" />
+<preference name="SplashScreenSpinnerColor" value="#FF0000" />
 
 
 <platform name="android">
